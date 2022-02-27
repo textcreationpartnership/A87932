@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a noble-man of this kingdome, (now in armes for his King and countrey) to the Lord Say, seriously inviting him to his allegeance.</title>
+            <author>Noble-man of this kingdome.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87932</idno>
+            <idno type="STC">Wing L1419</idno>
+            <idno type="STC">Thomason E453_12</idno>
+            <idno type="STC">ESTC R202815</idno>
+            <idno type="EEBO-CITATION">99862986</idno>
+            <idno type="PROQUEST">99862986</idno>
+            <idno type="VID">115166</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87932)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115166)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a noble-man of this kingdome, (now in armes for his King and countrey) to the Lord Say, seriously inviting him to his allegeance.</title>
+                  <author>Noble-man of this kingdome.</author>
+                  <author>Saye and Sele, William Fiennes, Viscount, 1582-1662.</author>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "July 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115166:1" rendition="simple:additions"/>
+            <p>
+               <hi>A</hi> LETTER FROM A NOBLE-MAN Of this Kingdome, <hi>(Now in Armes for his King and Countrey)</hi> To the Lord <hi>SAY,</hi> ſeriouſly inviting him to his Allegeance.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>July 18<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed in the yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:115166:2"/>
+            <head>A Letter from a Noble man of this Kingdome (now in Armes for his <hi>King and Country</hi>) <hi>to the Lord</hi> Say, <hi>ſeriouſly inviting him to his Allegeance.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Ecauſe I know (my Lord) you are wiſe, and capable of conviction, and for that you are noble by extraction, whereunto I alſo pretend: <hi>I</hi> cannot doubt of your kind ac<g ref="char:EOLhyphen"/>ceptance of a Letter which ſhall accent Truth, and breathe Love: were you a Plebeian, beleeve it and Phlegmatick, I would not ſpend either time or paper to reduce you to a fond underſtanding. Deeply (Right Honourable) prudent men erre, and there is no ſuch irre<g ref="char:EOLhyphen"/>mediable defection from Vertue and Religion, as when a ſapient head hath occaſionally ſlipt from truth; ſo unwil<g ref="char:EOLhyphen"/>ling is humane nature to confeſſe an error: Which to doe, Divinity accounts it moſt honourable, moſt truly Religi<g ref="char:EOLhyphen"/>ous. Is it that ſpecious pretence of Gods Cauſe which led you on theſe 7 yeers into horrid Rebellion againſt your na<g ref="char:EOLhyphen"/>turall Prince, meriting: better things at your hands, even by perſonall favours? Does the Law ſeem to afford a cha<g ref="char:EOLhyphen"/>ſme or riffe, wherein to hide the guilt without immediate repentance inexpiable? Does it by any inverſion ſeeme
+<pb n="2" facs="tcp:115166:3"/>to juſtifie your tranſactions? Or does (which is moſt probable) a ſweet ambience of ſupereminent liberty and command over your fellow Subjects, ſubjecting them to <hi>deſpoticall</hi> and <hi>Arbitrary Votes,</hi> illaqueate your underſtan<g ref="char:EOLhyphen"/>ding? Verily Sir, one of theſe three or all, muſt undenia<g ref="char:EOLhyphen"/>bly be granted to be ground, to every proſpective <hi>Epicle</hi> appear to be the foundation; whereupon, ſo unhappily hitherto the artificiall <hi>Babell</hi> you have raiſed, is laid. I deſquire them reſpectively I will examine them imparti<g ref="char:EOLhyphen"/>ally. <hi>I am a Gent. a Chriſtian, a Proteſtant, a man qualifi'd, even for an Ordinance of Parliament:</hi> Nay, truly to ſpeak, no leſſe a lover of your naturall endowments, then admiring your adviſed wickedneſſe. Pardon that biting truth, which your hodiernall perpetrations and guilt hath wrung from me, your amazed friend. Gods Cauſe can be concentred in nothing, but in Religion. What offers our ſecond <hi>Solomon</hi> hath made for the eſtabliſh of the Soul of the world, need I tell you? Diſcipline is a ſhell, no art can make it analogically comparate to dogmaticall truth, not adequate unto it, no Scripture ſuſceptible of ſuch a ſtretch, that it can be juſtly aſſerted, it is neceſſa<g ref="char:EOLhyphen"/>rily enjoyned to be identicall in all polities: it is neceſſary, but in ſpene may admit of alteration. Tis not that hath made you burn with zeal, we know you are of a more plauſible conſcience. How the ſeme of our Law will ſta<g ref="char:EOLhyphen"/>tuminate, will juſtifie you: I would you would diſcover, and ſend me, and all Lawyers away with conviction. Hath an <hi>Engliſh</hi> Prince a natural and politick capacity in<g ref="char:EOLhyphen"/>ſeparably joyned? None denies it. Is it high Treaſon to maintain, our Soveraign ought to be obeyed rather out of a reſpect unto His politick capacity then His natural? Raiſe the means of the conſcious ſpeuers they have ſigned it with their blood. Elſe may Rebellion be made a juſtifiable
+<pb n="3" facs="tcp:115166:3"/>trade, and His Majeſty properly enſtiled the King of <hi>Devills.</hi> Theſe are not (noble Lords) the adle iſſue of a melancholy brain, but ſubuxt with rights reaſon, uſe it rightly,; and ſee your ſlips. <hi>Stawell</hi> was fined for his Delinquence againſt the Parligment, for levying War againſt the King, he ſtands indicted, ſtrange contradictions no whimſey of virtually traſmitted power from His Ma<g ref="char:EOLhyphen"/>jeſty unto His Subjects wil vindicate that device from be<g ref="char:EOLhyphen"/>ing rightly honoured with the title of the moſt abſolute peice of ſenſeleſſe iniquity in the world. Are you a fraid to truſt the King? Greater ſecurity then an act of Parlia<g ref="char:EOLhyphen"/>ment, you can never have; fight on till doomſday: which I gueſſe by the Symtomes of maritime aſpects to be ap<g ref="char:EOLhyphen"/>proximant and ready to ſhew her face. But there is a ſweet covenant, whoſe ſanction muſt be regarded, as to eradica<g ref="char:EOLhyphen"/>tion of the hierarchy, which the King denies, becauſe inconſiſtant with damnable ſacriledge, the main cauſe which makes ſcarlet gown men arch up their eye-brows on Thankſgiving-days for Victories, for air, for the Eccho of the vain rumurſt for ſhedding innocent blood, and deep depopulating <hi>England</hi> the late jem and <hi>Ormuſium</hi> of the univerſe; their is the knack of intereſt, and in that I fear, your honour hopes to ſhare: ſuſpend a while your judge<g ref="char:EOLhyphen"/>ment in the covenants ſene, till it be defined, what ſcene it will bear, <hi>in malis promiſsis reſcinde fidem,</hi> is a gloden rule, excellent Aphoriſme. I tell you once more, our Law can protect it ſelf without a Sword. <hi>England</hi> will bleed her vitall breath, and never cloſe her orifice of ne<g ref="char:EOLhyphen"/>ceſſities, till our excellent Law be ſuffered to inchannell it ſelf rightly to the ocean of Honour. Who ſees not with what cables ſhe is made to retaine ſome veſſells, and how eaſily ſhe lets goe the other flat bottomed Barges of our unhappineſſe? How is he conſtrayned to yelp ruine to
+<pb n="4" facs="tcp:115166:4"/>wiſely qualified and religious how ſmoothly ſhe utters <hi>Placentia</hi> to the helliſh Caterpillars of this our Iſle? There is not the leaſt ſhadow of Law on your ſide, there muſt then be ſtill behind, Execrable in Morall Policy, that other preſumption ſtrongly fortify'd with vehement pro<g ref="char:EOLhyphen"/>bability, ſince that your Lordſhip and others hath to long in groſſe, and wallowed in the Royall Bath of So<g ref="char:EOLhyphen"/>vereignty. Is it poſſible a few tranſient howers of impety in this Tabernacle, in this ſubterlunary habitation, can tranſport ſuch a ſtar of humane reaſon beyond its due courſe? dares it encounter with <hi>Charles</hi>-Waine? and un<g ref="char:EOLhyphen"/>hinge Religion, Lawes, make common Equity a foolery, doe ſuch actions as were never exemplify'd, ſince this Iſland loſt the name of <hi>Olbion.</hi> Muſt Religion upon Ma<g ref="char:EOLhyphen"/>chiavillian principles be collaterally reſpected, and premi<g ref="char:EOLhyphen"/>ſed, as worthy ſome animadvertence, becauſe ſhe hath a quality to harneſſe high ſhoes unto the carriages of Hell watraved aymes? See, ſee, (thou great ingroſſer of Policy) thoſe paths which conduct to thy future happineſſe our immediate tranquillity, ſo humane, (for tis thy miſeries thou doſt ſee) what opportunity is. yet left by heavens indulgence unto thee, to return and: ingremiate thy ſelfe with him, who will forgive thee: Whoſe Vertues, whoſe Religion hath ſtartled <hi>Europe,</hi> and begot juſt obloqui up<g ref="char:EOLhyphen"/>on our Nation, for abuſing Soveraignty, for ſubiecting Piety it ſelf in abſtruce to the whistle of contemptible vil<g ref="char:EOLhyphen"/>lany. I burst with griefe, what remedy? tis thy ſoule I love; tis thy actions I abhor: which should I comprobate, that God, which for our great ſins hath unchained Hels Bandogs theſe ſeven years elapſed laſt, would expunge my name out of the Book of Life.</p>
+            <p rend="italic">Be not (I conjure you) any longer ſo deſperate an enemy to your owne Eternity.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:115166:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
